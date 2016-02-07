@@ -1,10 +1,9 @@
 What is it?
 ===
 
-It is a launcher button of package-manager-ui of **Nokia N9**. The package-manager-ui is a program where you can see, update and/of delete your programs.
+It is a launcher button of package-manager-ui of **Nokia N9**. The package-manager-ui is a program where you can see, update and/or delete your programs.
 
-![launcher button of package-manager-ui](./cover1.jpg)
-![package-manager-ui](./cover2.jpg)
+![launcher button of package-manager-ui](./cover1.jpg) ![package-manager-ui](./cover2.jpg)
 
 How-to
 ---
