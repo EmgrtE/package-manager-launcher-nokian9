@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Terminal=false
+Type=Application
+Name=Package Manager
+Icon=icon-m-content-application-inverse
+Exec=package-manager-ui
+X-Osso-Type=application/x-executable
+Name[ru_UA]=package-manager
